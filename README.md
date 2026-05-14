@@ -112,7 +112,6 @@ El análisis muestra que muchas relaciones esperadas no aparecen de forma clara 
 
 Proyecto desarrollado por Ainara como práctica de análisis exploratorio de datos y visualización en Python.
 
----
 
 ## AGRADECIMIENTOS
 
